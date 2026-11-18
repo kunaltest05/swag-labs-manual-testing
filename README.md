@@ -5,7 +5,7 @@ Manual Testing Project of Swag Labs E-commerce Website using Excel and Jira.
 ## Project Overview
 This project is based on manual testing of the Swag Labs E-commerce website.
 
-## Application Details
+## Application Details 
 - Application: Swag Labs
 - Website: https://www.saucedemo.com/
 - Testing Type: Manual Testing
